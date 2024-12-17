@@ -1,2 +1,2 @@
 # Certificates
-List of certificates in technical fields
+List of certificates in technical fields that I have received
